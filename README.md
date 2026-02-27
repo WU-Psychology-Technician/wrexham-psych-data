@@ -1,4 +1,5 @@
-# wrexham-psych-data
+# Wrexham Psychology Data-Sets 
+
 A repository for all the data used at Wrexham University
 
 
